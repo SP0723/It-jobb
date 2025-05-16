@@ -1,0 +1,75 @@
+-----------Exception Details on  10/05/2025 16:47:36-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/05/2025 16:47:36
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "JobPortal2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-RRS5Q3N\Suni'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/05/2025 16:47:52-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/05/2025 16:47:52
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "JobPortal2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-RRS5Q3N\Suni'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  10/05/2025 16:50:42-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 10/05/2025 16:50:42
+
+Error Line No : line 76
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot open database "JobPortal2" requested by the login. The login failed.
+Login failed for user 'DESKTOP-RRS5Q3N\Suni'.
+
+ Error Page Url: https://localhost:44377/Home/Login
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
